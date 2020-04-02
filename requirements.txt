@@ -1,1 +1,34 @@
-wget==3.2
+(index):1 A cookie associated with a cross-site resource at http://www.facebook.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+7sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:253 You are overriding current access token, that means some other app is expecting different access token and you will probably break things. Please consider passing access_token directly to API parameters instead of overriding the global settings.
+b @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:253
+6sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:253 You are overriding current access token, that means some other app is expecting different access token and you will probably break things. Please consider passing access_token directly to API parameters instead of overriding the global settings.
+b @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:253
+setAccessToken @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:299
+(anonymous) @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:302
+inform @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:254
+c.<computed> @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:263
+q @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:282
+C @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:282
+(anonymous) @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:282
+Promise.then (async)
+h @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:282
+d @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:282
+A @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:282
+f @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:282
+getLoginStatus @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:331
+(anonymous) @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:287
+(anonymous) @ sdk.js?hash=07bd0f71a5b6de5835d50bd2a61df92d&ua=modern_es6:285
+(anonymous) @ 40be66a7df8e.js:374
+getLoginStatus @ 40be66a7df8e.js:374
+(anonymous) @ 40be66a7df8e.js:371
+(anonymous) @ 40be66a7df8e.js:190
+o @ 40be66a7df8e.js:191
+(anonymous) @ 40be66a7df8e.js:191
+Mr @ c911f5848b78.js:11
+u @ 40be66a7df8e.js:191
+(anonymous) @ 40be66a7df8e.js:191
+requestAnimationFrame (async)
+n @ 40be66a7df8e.js:191
+e.mutate @ 40be66a7df8e.js:191
+runOnFlush @ 40be66a7df8e.js:190
+(anonymous) @ 40be66a7df8e.js:190
